@@ -15,7 +15,9 @@ This boilerplate is an entry point to anything you want to build. A few assumpti
 
 ### How to use this repo
 
-`degit gayanhewa/minimal-express-react-ts-starter`
+```
+npx degit gayanhewa/minimal-react-express-ts-boilerplate
+```
 
 ### Folder Structure
 
