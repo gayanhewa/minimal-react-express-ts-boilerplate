@@ -17,3 +17,15 @@ This boilerplate is an entry point to anything you want to build. A few assumpti
 
 `degit gayanhewa/minimal-express-react-ts-starter`
 
+### Folder Structure
+
+- client
+  - admin-app
+  - customer-app
+- server
+
+The client has multiple entry points. Added them just to demonstrate. If you don't need multiple entrypoints you can delete the app and remove the target from package.json to parcel won't complain when building.
+
+### Client App Hot Reload Tips
+
+Since we are using Parcel for this, [here is a link to a few tips.](https://parceljs.org/recipes/react/#tips)
