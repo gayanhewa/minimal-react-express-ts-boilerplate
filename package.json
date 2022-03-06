@@ -1,4 +1,9 @@
 {
+  "author": {
+    "email": "gayanhewa+github@gmail.com",
+    "name": "Gayan Hewa"
+  },
+  "license": "MIT",
   "scripts": {
     "dev:client": "yarn parcel",
     "dev:server": "nodemon",
